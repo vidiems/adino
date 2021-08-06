@@ -1,0 +1,116 @@
+[{
+
+        "title": "Who said: It won’t take much more for you to convince to become a Christian?",
+        "choices": [
+            "Paul to Agripa",
+            "Peter to Paul",
+            "Agrippa to Paul",
+            "Jesus to Paul"
+        ],
+
+        "correctAnswer": 2
+    },
+    {
+
+        "title": "Who was Zippora?",
+        "choices": [
+            "Moses’ wife",
+            "Moses' Maid",
+            "Pharoahs Daughter"
+
+
+        ],
+        "correctAnswer": 0
+    },
+    {
+
+        "title": "How old did Enoch become?",
+        "choices": [
+            "355 years old",
+            "365 years old",
+            "360 years old",
+            "765 years old"
+
+        ],
+        "correctAnswer": 1
+    },
+    {
+
+
+        "title": "Who said: Philistines rule over you!?",
+        "choices": [
+            "Saul to David",
+            "David to Solomon",
+            "Samson to Delilah",
+            "Delilah to Samson"
+
+        ],
+        "correctAnswer": 3
+    },
+    {
+
+
+        "title": "Name three sons of David.",
+        "choices": [
+            "Solomon, Absalom, Jonathan",
+            "Solomon, Absalom, Abisham",
+            "Slomon, Abisham, Nathan",
+            "Solomon, Absalom, Nathan"
+
+        ],
+        "correctAnswer": 3
+    },
+    {
+
+        "title": "What happened first? The beheading of John or the feeding of the 5000?",
+        "choices": [
+            "John was beheaded",
+            "The feeding of the 5000"
+        ],
+        "correctAnswer": 0
+    },
+    {
+
+        "title": "Where in the bible are apples mentioned for the first time?",
+        "choices": [
+            "Proverbs 25:11",
+            "Genesis 6:12",
+            "Numbers 3:12",
+            "Leveticus1:3"
+
+        ],
+        "correctAnswer": 0
+    },
+    {
+
+        "title": "In which book of the bible to we read about Haman?",
+        "choices": [
+            "Jugdes",
+            "Esther",
+            "Ruth",
+            "Psalms"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "title": "What happened first? Appointment of Matthew as an apostle or the appearance of the Holy Spirit?",
+        "choices": [
+            "The appearance of the Holy Spirit?",
+            "Appointment of Matthew as an apostle"
+
+        ],
+        "correctAnswer": 1
+    },
+    {
+
+        "title": "Who made the golden calf and the bronze snake?",
+        "choices": [
+            "Pharoah",
+            "The levites",
+            "Aaron, Moses",
+            "nebuchadnezzar"
+        ],
+        "correctAnswer": 2
+    }
+
+]
